@@ -25,7 +25,7 @@ Since I wanted to use **React** with **Typescript** to showcase my skills and al
 ## Tech Stack
 
 - **React** as the frontend library with **Typescript**
-- React's **Context API** to manage App State
+- **Redux Toolkit** to manage App State
 - **React Testing Library** and **Jest** for testing
 - **ESLint** and **Prettier** for code formatting and Linting
 - **Webpack** as the module bundler and **babel** as the typescript compiler
