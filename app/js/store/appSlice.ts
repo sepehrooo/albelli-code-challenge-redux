@@ -3,7 +3,7 @@ import { CanvasProps } from '../interfaces/CanvasProps.interface'
 import inchToPixel from '../utils/inchToPixel'
 import { canvasHeightInch, canvasWidthInch } from '../variables'
 
-const initialState: CanvasProps = {
+export const initialState: CanvasProps = {
     width: inchToPixel(canvasWidthInch),
     height: inchToPixel(canvasHeightInch),
     image: {
